@@ -48,3 +48,13 @@ MANIFEST
 
 # Per-project virtualenvs
 .venv*/
+
+
+# VSCode
+.vscode/
+
+# ispybDHS debugging dirs
+JPEGS/
+RESULTS/
+*.tgz
+*.log.*
